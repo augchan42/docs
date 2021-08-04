@@ -142,7 +142,7 @@ Please disable hyperthreading and overclocking/undervolting in your BIOS.
 This could mean a number of different things related to the configuration of the machine. Most common are:
 
 - ["INTEL-SA-00161", "INTEL-SA-00233"] - Hyper-threading must be disabled in the BIOS
-- ["INTEL-SA-00289"] - Overclocking/undervolting must be disabled by the BIOS
+- ["INTEL-SA-00289"] - Overclocking/undervolting must be disabled by the BIOS (sometimes known as Turboboost)
 - ["INTEL-SA-00219"] - Integrated graphics should be disabled in the BIOS - we recommend performing this step if you can, though it isn't required
 
 #### I'm seeing `SGX_ERROR_DEVICE_BUSY`
